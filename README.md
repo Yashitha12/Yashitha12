@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yashithadissanayaka5@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+
 
 </td>
 <td width="50%" align="center">
