@@ -13,7 +13,7 @@
 
 - - 📄 Know about my experiences [www.linkedin.com/in/yashitha-dissanayaka-7022a8293](www.linkedin.com/in/yashitha-dissanayaka-7022a8293)
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Ask me about **Web development | OOC and OOP**
 
 - 📫 How to reach me **yashithadissanayaka5@gmail.com**
   
