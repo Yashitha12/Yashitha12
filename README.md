@@ -7,15 +7,21 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **Mern Stack**
+
+- 🪴 I’m currently learning UI/UX
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - - 📄 Know about my experiences [www.linkedin.com/in/yashitha-dissanayaka-7022a8293](www.linkedin.com/in/yashitha-dissanayaka-7022a8293)
 
-- 💬 Ask me about **Web development | OOC and OOP**
+- 💬 Ask me about **Web development | Modile App Developing**
 
 - 📫 How to reach me **yashithadissanayaka5@gmail.com**
+
+
+  
+
   
 
 
