@@ -13,7 +13,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- - 📄 Know about my experiences [www.linkedin.com/in/yashitha-dissanayaka-7022a8293](www.linkedin.com/in/yashitha-dissanayaka-7022a8293)
+- 📄 Know about my experiences [www.linkedin.com/in/yashitha-dissanayaka-7022a8293](www.linkedin.com/in/yashitha-dissanayaka-7022a8293)
 
 - 💬 Ask me about **Web development | Modile App Developing**
 
