@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web development | Modile App Developing**
 
-- 📫 How to reach me **yashithadissanayaka5@gmail.com**
+- 📫 How to reach me **yashithadissanayaka6@gmail.com**
 
 
   
