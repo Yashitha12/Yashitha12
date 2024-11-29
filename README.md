@@ -57,3 +57,4 @@
 
 ---
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashitha12&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
