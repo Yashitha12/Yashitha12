@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/yashitha-dissanayaka-7022a8293](www.linkedin.com/in/yashitha-dissanayaka-7022a8293)
 
-- 💬 Ask me about **Web development | Modile App Developing**
+- 💬 Ask me about **Full-Stack development | Modile App Developing**
 
 - 📫 How to reach me **yashithadissanayaka6@gmail.com**
 
